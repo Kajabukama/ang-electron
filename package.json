@@ -16,6 +16,9 @@
         "Angular2",
         "Electron"
     ],
+    "devDependencies": {
+        "electron": "~1.6.2"
+    },
     "author": "Yusuph H. Kajabukama",
     "license": "MIT",
     "bugs": {
