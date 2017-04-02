@@ -1,24 +1,24 @@
 {
-  "name": "ang-electron",
-  "version": "1.0.0",
-  "description": "Angular2 and Electron App",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kajabukama/ang-electron-app.git"
-  },
-  "keywords": [
-    "Angular",
-    "Angular2",
-    "Electron"
-  ],
-  "author": "Yusuph H. Kajabukama",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/kajabukama/ang-electron-app/issues"
-  },
-  "homepage": "https://github.com/kajabukama/ang-electron-app#readme"
+    "name": "ang-electron",
+    "version": "1.0.0",
+    "description": "Angular2 and Electron App",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kajabukama/ang-electron.git"
+    },
+    "keywords": [
+        "Angular",
+        "Angular2",
+        "Electron"
+    ],
+    "author": "Yusuph H. Kajabukama",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/kajabukama/ang-electron/issues"
+    },
+    "homepage": "https://github.com/kajabukama/ang-electron#readme"
 }
